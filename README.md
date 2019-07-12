@@ -1,2 +1,2 @@
 # DNS-Spoofer
-Redirect web traffic
+Python program to redirect web traffic
